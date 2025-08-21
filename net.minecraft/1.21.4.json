@@ -7,10 +7,10 @@
     ],
     "assetIndex": {
         "id": "19",
-        "sha1": "a08e4128d1965a572991b9c39366a1363b8c308a",
-        "size": 464024,
-        "totalSize": 406032573,
-        "url": "https://bmclapi2.bangbang93.com/v1/packages/a08e4128d1965a572991b9c39366a1363b8c308a/19.json"
+        "sha1": "e962d1201fbbfc3a370870ef265f5c92a1e63608",
+        "size": 463827,
+        "totalSize": 401368110,
+        "url": "https://bmclapi2.bangbang93.com/v1/packages/e962d1201fbbfc3a370870ef265f5c92a1e63608/19.json"
     },
     "compatibleJavaMajors": [
         21
@@ -643,23 +643,13 @@
             "name": "org.slf4j:slf4j-api:2.0.16"
         }
     ],
-    "logging": {
-        "argument": "-Dlog4j.configurationFile=${path}",
-        "file": {
-            "id": "client-1.21.2.xml",
-            "sha1": "39384bd14c0606d812afec88d8aff595b2587dd9",
-            "size": 1073,
-            "url": "https://piston-meta.mojang.com/v1/objects/39384bd14c0606d812afec88d8aff595b2587dd9/client-1.21.2.xml"
-        },
-        "type": "log4j2-xml"
-    },
     "mainClass": "net.minecraft.client.main.Main",
     "mainJar": {
         "downloads": {
             "artifact": {
                 "sha1": "a7e5a6024bfd3cd614625aa05629adf760020304",
                 "size": 28335587,
-                "url": "https://bmclapi2.bangbang93.com/version/1.21.4/client"
+                "url": "https://bmclapi2.bangbang93.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar"
             }
         },
         "name": "com.mojang:minecraft:1.21.4:client"
